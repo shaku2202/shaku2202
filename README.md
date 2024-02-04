@@ -11,6 +11,9 @@
 
 - 📫 How to reach me <a href="https://shashank-2202.github.io/">**Portfolio**</a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashank-singh-8b5a471aa/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
