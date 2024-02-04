@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js, Express Js, MongoDB, HTML,CSS**
 
-- 📫 How to reach me **shashank.psit057@gmail.com**<a href="https://shashank-2202.github.io/">Portfolio</a>
+- 📫 How to reach me <a href="https://shashank-2202.github.io/">**Portfolio**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
