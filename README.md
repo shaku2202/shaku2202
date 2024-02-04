@@ -15,8 +15,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-+91 7839150269
-<h3>Email-:**shashank.psit057@gmail.com**<h3>
+📧 [Email](mailto:shashank.psit057@gmail.com)
+
 <p align="left">
 </p>
 
