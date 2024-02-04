@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-📞 Phone:+91 7839150269
+📞 Phone:+91 7839150269 
 🏠 Varanasi, India
 
 <p align="left">
