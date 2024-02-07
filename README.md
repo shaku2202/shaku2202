@@ -17,7 +17,6 @@
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
 - 📫 How to reach me <a href="https://shashank-2202.github.io/">**Portfolio**</a>
-
 📧 [Email](mailto:shashank.psit057@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashank-singh-8b5a471aa/)
