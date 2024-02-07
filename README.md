@@ -9,10 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-2202" alt="shashank-2202" /></a> </p>
 
 - 🔭 I’m currently working on **AWS and Node JS**
-
 - 🌱 I’m currently learning **AWS,Docker**
-- 
-- 💬 Ask me about Node.js,DSA, MongoDb,MySql,JavaScript,GitHub
+-👨‍💻 All of my projects are available at <a href=" https://github.com/Shashank-2202?tab=repositories">**Repository**</a>
+- 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
 - 📫 How to reach me <a href="https://shashank-2202.github.io/">**Portfolio**</a>
 📧 [Email](mailto:shashank.psit057@gmail.com)
