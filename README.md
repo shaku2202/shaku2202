@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaku2202&label=Profile%20views&color=0e75b6&style=flat" alt="shaku2202" /> </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaku2202" alt="shaku2202" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaku2202&label=Profile%20views&color=0e75b6&style=flat" alt="shaku2202" /> </p>
+
 - 🔭 I’m currently working on **AWS and Node JS**
   
 - 🌱 I’m currently learning **AWS,Docker**
