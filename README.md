@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
-- 📫 How to reach me <a href="https://shashank-2202.github.io/">**Portfolio**</a>
+- 📫 How to reach me <a href="https://shaku2202.github.io/">**Portfolio**</a>
 📧 [Email](mailto:shashank.psit057@gmail.com)
 
 
