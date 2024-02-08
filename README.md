@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **AWS,Docker**
   
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Shashank-2202?tab=repositories">**Repository**</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/shaku2202?tab=repositories">**Repository**</a>
 
 - 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
 
