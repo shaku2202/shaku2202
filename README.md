@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shaku2202/shaku2202/assets/26421275/8e9c3d2d-4c1b-4b7b-8e3f-5c1e981d1a9c" width="320" alt="Backend Developer Animated"/>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coder gif"/>
 </p>
 
 <p align="center">
