@@ -87,7 +87,6 @@
 <img src="https://sequelize.org/img/logo.svg" title="Sequelize" alt="Sequelize" width="48"/>
 <img src="https://avatars.githubusercontent.com/u/61969923?s=200&v=4" title="Temporal" alt="Temporal" width="48"/>
 <img src="https://avatars.githubusercontent.com/u/7713209?s=200&v=4" title="Razorpay" alt="Razorpay" width="48"/>
-<img src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg" title="Keycloak" alt="Keycloak" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" title="Socket.IO" alt="Socket.IO" width="48"/>
 <img src="https://cdn-icons-png.flaticon.com/512/3810/3810281.png" title="REST" alt="REST" width="48"/>
 <img src="https://cdn-icons-png.flaticon.com/512/3381/3381394.png" title="KYC" alt="KYC" width="48"/>
@@ -105,7 +104,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3810/3810281.png" title="Caching" alt="Caching" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" title="WebRTC" alt="WebRTC" width="48"/>
 </div>
 
 ---
