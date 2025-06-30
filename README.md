@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shashank Singh</h1>
-<h3 align="center">🚀 Backend Developer | India 🇮🇳</h3>
+<!-- SHASHANK SINGH | GITHUB PROFILE README -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashank+Singh!;Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+robust+APIs+and+systems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shaku2202/shaku2202/assets/26421275/8e9c3d2d-4c1b-4b7b-8e3f-5c1e981d1a9c" width="320" alt="Backend Developer Animated"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaku2202&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Coder at work"/>
-</div>
 
 ---
 
@@ -24,26 +27,27 @@
 
 ## 🏆 Achievements
 
-- 🧠 <b>5⭐ Problem Solving</b> on HackerRank
-- 💻 <b>100+ DSA</b> problems solved on LeetCode
-- 🛠️ <b>500+ production APIs</b> delivered across major projects
-- ✅ <b>90%+ test coverage</b> and <b>SonarQube compliance</b> in recent projects
+<div align="center">
+
+| 🧠 5⭐ Problem Solving on HackerRank | 💻 100+ DSA Problems on LeetCode | 🛠️ 500+ Production APIs Delivered | ✅ 90%+ Test Coverage & SonarQube |
+|:-----------------------------------:|:-------------------------------:|:---------------------------------:|:-------------------------------:|
+</div>
 
 ---
 
 ## 💼 Experience
 
-<table>
+<table align="center">
   <tr>
     <td><b>Moneymul Technology Pvt. Ltd</b></td>
     <td>Backend Developer</td>
-    <td>May 2024 – Present, Noida</td>
+    <td><i>May 2024 – Present, Noida</i></td>
   </tr>
   <tr>
     <td colspan="3">
       <ul>
         <li>Architected scalable APIs for Aadhaar-based eSign & KYC</li>
-        <li>Integrated Keycloak (RBAC), Razorpay, Temporal etc.</li>
+        <li>Integrated Keycloak (RBAC), Razorpay, Temporal, and more</li>
         <li>Boosted performance via caching & query optimization</li>
       </ul>
     </td>
@@ -51,7 +55,7 @@
   <tr>
     <td><b>Masai School</b></td>
     <td>Backend Developer Intern</td>
-    <td>Jan 2024 – Apr 2024, Bengaluru</td>
+    <td><i>Jan 2024 – Apr 2024, Bengaluru</i></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -65,42 +69,55 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/7713209?s=200&v=4" alt="Razorpay" width="40"/>
-  <img src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg" alt="Keycloak" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/61969923?s=200&v=4" alt="Temporal" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="40"/>
-  <img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/8770009?s=200&v=4" alt="Mocha" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" alt="Chai" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40"/>
-</p>
+<div align="center">
+
+<!-- Core -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="48"/>
+
+<!-- Backend Ecosystem -->
+<img src="https://sequelize.org/img/logo.svg" title="Sequelize" alt="Sequelize" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/61969923?s=200&v=4" title="Temporal" alt="Temporal" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/7713209?s=200&v=4" title="Razorpay" alt="Razorpay" width="48"/>
+<img src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg" title="Keycloak" alt="Keycloak" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" title="Socket.IO" alt="Socket.IO" width="48"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3810/3810281.png" title="REST" alt="REST" width="48"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3381/3381394.png" title="KYC" alt="KYC" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="48" />
+<img src="https://cdn-icons-png.flaticon.com/512/2830/2830280.png" title="SDLC" alt="SDLC" width="48"/>
+<img src="https://cdn-icons-png.flaticon.com/512/551/551180.png" title="Unit Testing" alt="Unit Testing" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/8770009?s=200&v=4" title="Mocha" alt="Mocha" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" title="Chai" alt="Chai" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" alt="Azure" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="JIRA" alt="JIRA" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="48"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3810/3810281.png" title="Caching" alt="Caching" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" title="WebRTC" alt="WebRTC" width="48"/>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaku2202&show_icons=true&theme=tokyonight&hide_title=false" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaku2202&show_icons=true&theme=tokyonight&hide_title=false" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaku2202&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaku2202&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaku2202&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaku2202&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</div>
 
 ---
 
