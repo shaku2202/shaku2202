@@ -1,81 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shashank Singh</h1>               
-<h3 align="center">A passionate backend developer from India</h3>        
+<h1 align="center">Hi 👋, I'm Shashank Singh</h1>
+<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaku2202&label=Profile%20views&color=0e75b6&style=flat" alt="shaku2202" /> </p> 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>    
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaku2202" alt="shaku2202" /></a> </p>
- 
-- 🔭 I’m currently working on **AWS and Node JS**  
-  
-- 🌱 I’m currently learning **AWS,Docker**
-  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/shaku2202?tab=repositories">**Repository**</a>
-
-- 💬 Ask me about **Node.js,DSA, MongoDb,MySql,JavaScript,GitHub**
-
-- 📫 How to reach me <a href="https://shaku2202.github.io/">**Portfolio**</a>
-📧 [Email](mailto:shashank.psit057@gmail.com)
-
-
-
-<h3 align="left">Connect with me:</h3>
-📞 Phone:+91 7839150269 <br><br> 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shashank-singh-8b5a471aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShashankSingh" height="40" width="50"/></a>
-<a href="https://leetcode.com/shashank_masai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShashankSingh" height="40" width="50" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaku2202&label=Profile%20views&color=0e75b6&style=flat" alt="shaku2202" />
 </p>
 
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 20px;">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="70" height="70"/>
-  </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coder gif"/>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🧑‍💻 Backend Developer with **1.5 years of experience**
+- 🔭 Currently working on **eSign Pro and PAN 2.0 Government Projects**
+- 🌱 Learning: **AWS, Docker, Microservices, Event-Driven Architecture**
+- 💬 Ask me about: **Node.js, Express.js, MongoDB, SQL, Keycloak, Temporal, WebRTC, DSA**
+- 📫 Reach me at: [Portfolio](https://shaku2202.github.io/) | [Email](mailto:shashank.psit057@gmail.com)
+- 📁 Explore all my projects in my [GitHub Repositories](https://github.com/shaku2202?tab=repositories)
+
+---
+
+### 🏆 Achievements
+
+- 🧠 **5⭐ Problem Solving on HackerRank**
+- 💻 **100+ DSA problems solved on LeetCode**
+- 🛠️ Delivered **500+ production APIs** across major projects
+- ✅ Achieved **90%+ test coverage** and **SonarQube compliance** in recent projects
+
+---
+
+### 💼 Work Experience
+
+- **Backend Developer** at *Moneymul Technology Pvt. Ltd*  
+  *May 2024 – Present, Noida, India*
+  - Architected and maintained scalable APIs for Aadhaar-based eSign & KYC
+  - Integrated Keycloak (RBAC), Razorpay, Temporal, and more
+  - Boosted performance with caching & query optimization
+
+- **Backend Developer Intern** at *Masai School*  
+  *Jan 2024 – Apr 2024, Bengaluru, India*  
+  - Built a **real-time video chat app** using **WebRTC + Socket.io**
+  - Created production-grade REST APIs and microservices
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left" style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaku2202&show_icons=true&locale=en&layout=compact" alt="shaku2202" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaku2202&show_icons=true&locale=en" alt="shaku2202" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaku2202&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaku2202&" alt="shaku2202" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaku2202&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaku2202" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shashank-singh-8b5a471aa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/shashank_masai/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:shashank.psit057@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
