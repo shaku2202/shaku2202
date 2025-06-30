@@ -103,23 +103,14 @@
   <a href="https://sequelize.org/" target="_blank">
     <img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="50" height="50"/>
   </a>
-  <a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="50" height="50"/>
-  </a>
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
   </a>
-<a href="https://swagger.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/swagger_logo.svg" alt="Swagger" width="50" height="50"/>
-</a>
   <a href="https://en.wikipedia.org/wiki/Unit_testing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/551/551180.png" alt="Unit Testing" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/>
-  </a>
-  <a href="https://webrtc.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" alt="WebRTC" width="50" height="50"/>
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
